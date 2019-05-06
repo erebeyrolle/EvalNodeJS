@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/ASUS Eric/Desktop/EvalNodeJS/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/ASUS Eric/Desktop/EvalNodeJS","disabled":false,"__vagrantfile":true}}}
